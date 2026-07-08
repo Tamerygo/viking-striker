@@ -15,7 +15,7 @@
 | ![FLY mode](screenshots/fly.png) | ![RUSH mode](screenshots/rush.png) |
 | Tap to fly through the gaps between defender towers. The gaps get tighter, some towers **move** — watch for the gold caps. | Jump the sliding tackles, double-jump the walls. Defenders marked with **!** charge at you. Good luck. |
 
-## 🌍 14 national teams — and the real World Cup fixtures
+## 🌍 14 national teams — the real quarter-final fixtures
 
 Pick your team *and* the opponent whose defenders you'll embarrass. Or use the **quarter-finals quick pick** to jump straight into a real matchup.
 
